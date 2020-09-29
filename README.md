@@ -1,2 +1,2 @@
 # Password-generator-
-This is a random password generator which gives a random password every timethe user runs it 
+This is a password generator in which a user gives the desired length of the password he wants and in return it gives a random password every time the user runs it 
